@@ -1,0 +1,65 @@
+BiteRight - AI and Open Source Sources
+
+AI MODELS USED
+1) OpenAI gpt-4.1-mini
+   - Usage in code: backend/main.py (/parse-menu, /analyze, /vision, /chat, translation helper)
+   - Model docs: https://platform.openai.com/docs/models/gpt-4.1-mini
+   - API docs (Chat Completions): https://platform.openai.com/docs/api-reference/chat
+
+OPEN SOURCE LIBRARIES (BACKEND)
+1) FastAPI (Python web framework)
+   - Package: fastapi==0.115.6
+   - GitHub: https://github.com/fastapi/fastapi
+
+2) Uvicorn (ASGI server)
+   - Package: uvicorn==0.34.0
+   - GitHub: https://github.com/encode/uvicorn
+
+3) OpenAI Python SDK
+   - Package: openai==1.65.4
+   - GitHub: https://github.com/openai/openai-python
+
+4) python-multipart (form-data parsing)
+   - Package: python-multipart==0.0.22
+   - GitHub: https://github.com/Kludex/python-multipart
+
+OPEN SOURCE LIBRARIES (FRONTEND)
+1) Next.js
+   - Package: next@^16.2.1
+   - GitHub: https://github.com/vercel/next.js
+
+2) React
+   - Package: react@^18
+   - GitHub: https://github.com/facebook/react
+
+3) React DOM
+   - Package: react-dom@^18
+   - GitHub: https://github.com/facebook/react
+
+4) Tailwind CSS
+   - Package: tailwindcss@^3.4.1
+   - GitHub: https://github.com/tailwindlabs/tailwindcss
+
+5) TypeScript
+   - Package: typescript@^5
+   - GitHub: https://github.com/microsoft/TypeScript
+
+6) ESLint
+   - Package: eslint@^8
+   - GitHub: https://github.com/eslint/eslint
+
+7) PostCSS
+   - Package: postcss@^8
+   - GitHub: https://github.com/postcss/postcss
+
+8) Next.js ESLint config
+   - Package: eslint-config-next@^16.2.1
+   - Repository: https://github.com/vercel/next.js
+
+9) Type definitions (@types/node, @types/react, @types/react-dom)
+   - Source project: DefinitelyTyped
+   - GitHub: https://github.com/DefinitelyTyped/DefinitelyTyped
+
+NOTES
+- This file cites model providers and project dependencies present in this repository's backend/requirements.txt and frontend/package.json.
+- No separate third-party GitHub code imports/copies were identified beyond listed dependencies.
