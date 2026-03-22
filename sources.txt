@@ -1,0 +1,58 @@
+BITERIGHT — SOURCES & ATTRIBUTIONS
+====================================
+
+AI MODELS
+---------
+OpenAI GPT-4.1 Mini
+  Used for: menu parsing, dish analysis, vision/OCR, and chat
+  https://platform.openai.com/docs/models
+
+GitHub Copilot
+  Used for: AI-assisted code generation and development
+  https://github.com/features/copilot
+
+Claude (Anthropic)
+  Used for: AI-assisted code generation, architecture decisions, and prompt engineering
+  https://www.anthropic.com/claude
+
+
+FRAMEWORKS & LIBRARIES
+-----------------------
+Next.js 14 (React framework, frontend)
+  https://github.com/vercel/next.js
+  License: MIT
+
+React 18
+  https://github.com/facebook/react
+  License: MIT
+
+Tailwind CSS
+  https://github.com/tailwindlabs/tailwindcss
+  License: MIT
+
+FastAPI (Python backend framework)
+  https://github.com/tiangolo/fastapi
+  License: MIT
+
+Uvicorn (ASGI server)
+  https://github.com/encode/uvicorn
+  License: BSD
+
+Pydantic (data validation)
+  https://github.com/pydantic/pydantic
+  License: MIT
+
+openai-python (OpenAI Python SDK)
+  https://github.com/openai/openai-python
+  License: MIT
+
+python-dotenv (environment variable management)
+  https://github.com/theskumar/python-dotenv
+  License: BSD
+
+
+PROJECT SCAFFOLDING
+-------------------
+Backend structure and initial source files partially generated
+using GitHub Copilot's repository scaffolding feature at repo creation.
+
